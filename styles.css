@@ -1,26 +1,24 @@
-body{ 
-color:black;
-background:red(218, 31, 251);
-
-}
-header{
-border-bottom: solid 2px green;
-padding: 20px ;
-font-size: 32px;
-color: rgb(0, 123, 206);
+body {
+    color: white;
+    background: black;
+    margin: 0px;
 }
 
-section{
-background: rgba(233, 112, 12, 0.473);
-padding-bottom: 80px;
-padding-top: 80px;
-display:flex;
-justify-content:center ;
-
-
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(56, 187, 44);
 }
 
-.chamada-texto{
+section {
+	background: rgb(0, 97, 114);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
     margin-right: 5%;
 }
-
